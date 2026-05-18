@@ -1,4 +1,4 @@
-# Hi there, I'm Noufal 👋
+# Hi there, I'm NOUFAL N S 👋
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cyber%20Security%20Analyst-100000?style=for-the-badge&logo=shieldsdotio&logoColor=white&labelColor=007ACC" alt="Cyber Security Analyst">
@@ -22,12 +22,12 @@
 
 ### 🛡️ Core Designations & Expertise
 
-*   **Cyber Security Analyst & VAPT:** Vulnerability assessments, infrastructure hardening, risk mitigation, and offensive/defensive network testing.
-*   **SOC (Security Operations Center):** Log monitoring, threat detection, traffic analysis, and incident response paradigms.
-*   **DevOps & Networking:** Orchestrating cloud infrastructure (AWS/GCP), secure remote reverse proxies, and architecture of stable network topologies.
-*   **Python Full-Stack Developer:** Building robust, script-driven backend engines paired with clean, data-driven web dashboards.
-*   **Hardware Pentesting & IoT:** Low-level RF communication analysis, firmware auditing, and working with microcontrollers (ESP32).
-*   **Live Sound Engineer:** Audio engineering, acoustic optimization, high-power system crossovers, and signal flow architectures.
+* **Cyber Security Analyst & VAPT:** Vulnerability assessments, infrastructure hardening, risk mitigation, and offensive/defensive network testing.
+* **SOC (Security Operations Center):** Log monitoring, threat detection, traffic analysis, and incident response paradigms.
+* **DevOps & Networking:** Orchestrating cloud infrastructure (AWS/GCP), secure remote reverse proxies, and architecture of stable network topologies.
+* **Python Full-Stack Developer:** Building robust, script-driven backend engines paired with clean, data-driven web dashboards.
+* **Hardware Pentesting & IoT:** Low-level RF communication analysis, firmware auditing, and working with microcontrollers (ESP32).
+* **Live Sound Engineer:** Audio engineering, acoustic optimization, high-power system crossovers, and signal flow architectures.
 
 ---
 
@@ -35,9 +35,9 @@
 
 I am a postgraduate student balancing deep technical fields across security engineering, system administration, software development, and hardware interfaces. I specialize in bridging the gap between offensive testing, operational monitoring, and secure software distribution.
 
-*   🔭 **Current Project:** Engineering a custom **Wireless Pentesting Framework (WPRF)** featuring a live web dashboard.
-*   🛠️ **Infrastructure:** Maintaining secure cloud-bridged staging environments using reverse proxy tunnels.
-*   🎯 **Community & Ecosystem:** Tech content generation and project architecture under **Byte Craft Labs**.
+* 🔭 **Current Project:** Engineering a custom **Wireless Pentesting Framework (WPRF)** featuring a live web dashboard.
+* 🛠️ **Infrastructure:** Maintaining secure cloud-bridged staging environments using reverse proxy tunnels.
+* 🎯 **Community & Ecosystem:** Tech content generation and project architecture under **Byte Craft Labs**.
 
 ---
 
@@ -55,8 +55,8 @@ I am a postgraduate student balancing deep technical fields across security engi
 ### 📊 GitHub Stats & Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noufal-fanas&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noufal-fanas&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noufal-fanas&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noufal-fanas&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
 </p>
 
 ---
@@ -64,17 +64,17 @@ I am a postgraduate student balancing deep technical fields across security engi
 ### 📁 Projects & Tools Portfolio
 
 #### 🎓 Academic & Degree Projects
-*   **Biometric Identification Scheme for Cloud Computing (BISC):** Designed a secure authentication architecture leveraging cryptographic biometric mapping to verify user identities without exposing raw biometric models to the cloud.
-*   **Remote Backup Server for Cloud Computing:** Engineered a high-availability, secure remote storage solution featuring automated synchronization pipelines, encrypted transmission protocols, and failure recovery policies.
-*   **Biometric Identification Scheme for Banking Interface:** Developed an end-to-end secure software interface integrating multi-factor biometric checks explicitly hardened against session hijacking and financial interface spoofing.
+* **Biometric Identification Scheme for Cloud Computing (BISC):** Designed a secure authentication architecture leveraging cryptographic biometric mapping to verify user identities without exposing raw biometric models to the cloud.
+* **Remote Backup Server for Cloud Computing:** Engineered a high-availability, secure remote storage solution featuring automated synchronization pipelines, encrypted transmission protocols, and failure recovery policies.
+* **Biometric Identification Scheme for Banking Interface:** Developed an end-to-end secure software interface integrating multi-factor biometric checks explicitly hardened against session hijacking and financial interface spoofing.
 
 #### ⚙️ Security Tools & Utilities
-*   **Wireless Pentesting Framework (WPRF):** A dedicated, web-accessible control panel for managing hardware-level network reconnaissance, automated deauthentication tasks, and live handshake visualizations.
-*   **Network Packet Sniffer & Analyzer:** A custom tool built during my *Prodigy InfoTech Internship* for live packet sniffing, parsing network headers, and auditing transmission anomalies.
-*   **Simple Keymon:** An optimized script-driven keystroke monitoring utility tailored for analyzing keyboard input telemetry during authorized red team assessments.
-*   **Pacrat:** A custom network tool built to handle specialized packet crafting, manipulation, and injection testing.
-*   **Pixi Trixi:** A lightweight utility designed to interact with and process visual/image assets or graphical dashboard metrics within specific network environments.
-*   **Cloud-Bridged Infrastructure Topology:** A production-grade bridge link bridging localized development machines securely to cloud servers via encrypted reverse proxies.
+* **Wireless Pentesting Framework (WPRF):** A dedicated, web-accessible control panel for managing hardware-level network reconnaissance, automated deauthentication tasks, and live handshake visualizations.
+* **Network Packet Sniffer & Analyzer:** A custom tool built during my *Prodigy InfoTech Internship* for live packet sniffing, parsing network headers, and auditing transmission anomalies.
+* **Simple Keymon:** An optimized script-driven keystroke monitoring utility tailored for analyzing keyboard input telemetry during authorized red team assessments.
+* **Pacrat:** A custom network tool built to handle specialized packet crafting, manipulation, and injection testing.
+* **Pixi Trixi:** A lightweight utility designed to interact with and process visual/image assets or graphical dashboard metrics within specific network environments.
+* **Cloud-Bridged Infrastructure Topology:** A production-grade bridge link bridging localized development machines securely to cloud servers via encrypted reverse proxies.
 
 ---
 
