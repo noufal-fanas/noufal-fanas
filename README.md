@@ -14,10 +14,6 @@
   <img src="https://img.shields.io/badge/Live%20Sound%20Engineer-100000?style=for-the-badge&logo=shieldsdotio&logoColor=white&labelColor=5A5A5A" alt="Live Sound Engineer">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=noufal-fanas&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
-</p>
-
 ---
 
 ### 🛡️ Core Designations & Expertise
@@ -54,10 +50,11 @@ I am a postgraduate student balancing deep technical fields across security engi
 
 ### 📊 GitHub Stats & Ecosystem
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noufal-fanas&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noufal-fanas&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
-</p>
+| Metric | Target / Status | Logo |
+| :--- | :--- | :---: |
+| **GitHub Profile** | active contributions | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"> |
+| **Primary Language** | Python / Bash / JavaScript | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> |
+| **Environment** | Linux Administration & Security | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"> |
 
 ---
 
